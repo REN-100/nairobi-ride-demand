@@ -12,7 +12,9 @@ Other details like ride duration and wait times
 We used real data to create charts and a model that guesses demand, helping drivers know where to go!
 
 How to Use It
-You can try the predictor live online:Visit the Streamlit App (link will be active after deployment).
+You can try the predictor live online:
+Visit the Streamlit App (https://nairobi-ride-demand-3xg3xzzcpngq65jbpanmtv.streamlit.app/).
+
 Pick a location (e.g., Karen), time (e.g., 5 PM), day, and weather (e.g., Heavy Rain).
 
 Click “Predict Demand” to see how many rides are expected.
